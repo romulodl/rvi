@@ -1,0 +1,19 @@
+{
+  "name": "romulodl/rvi",
+  "description": "calculate Relative Vigor Index",
+  "license": "Apache-2.0",
+  "require-dev": {
+    "phpunit/phpunit": "^8.5"
+  },
+  "authors": [
+    {
+      "name": "Romulo De Lazzari",
+      "email": "romulodelazzari@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Romulodl\\": "src/"
+    }
+  }
+}
