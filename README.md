@@ -1,5 +1,7 @@
 # Relative Vigor Index
 
+![Relative Vigor Index](https://github.com/romulodl/rvi/workflows/Relative%20Vigor%20Index/badge.svg)
+
 Calculate the Relative Vigor Index (RVI) of given values.
 
 ## Instalation
